@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import keras
 import pickle
 
 file_to_read = open("nn.pkl", "rb")
